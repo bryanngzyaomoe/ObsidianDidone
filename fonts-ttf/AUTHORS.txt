@@ -1,0 +1,11 @@
+﻿Obsidian Didone Authors
+
+This file commits the names of the individuals and teams who have 
+contributed to this Open Font License project. 
+
+The list is sorted by the year of initial contribution, then alphabetically.
+
+* HinataHikari69 <hinatahikari69@gmail.com> (Project Maintainer, Font Designer, and Merged Source Han / Noto Serif)
+* Adobe Font Development Team (Original Authors of Source Han Serif)
+* Google Fonts Team (Original Authors of Noto Serif)
+* Mixfont Platform (AI generation tools used for the Latin glyphs base)
