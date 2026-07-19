@@ -30,7 +30,7 @@
 
 ### 🎨 字体效果预览 (Preview)
 
-> 💡 **提示**：你可以将你的字体样张截图重命名为 `preview.png` 并直接上传到你 GitHub 仓库的根目录下，下方就会自动显示你的字体预览图！
+> 💡 **预览**：你可以看下面的预览图，以彰显 Obsidian Didone 的 CJK 多语言能力！
 
 ![Obsidian Didone Preview Placeholder](preview.png)
 
